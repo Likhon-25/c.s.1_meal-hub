@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT",
+    "description": "Advanced AI chatbot for writing, coding, and learning.\nSupports conversations, analysis.",
+    "price": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "status": "popular"
+  },
+  {
+    "id": 2,
+    "title": "Google Gemini",
+    "description": "Google's multimodal AI assistant.\nGreat for research, coding, and document analysis.",
+    "price": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Gemini_logo.svg",
+    "status": "mostwanted"
+  },
+  {
+    "id": 3,
+    "title": "Claude",
+    "description": "AI assistant by Anthropic.\nExcellent for long documents and programming.",
+    "price": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Claude_AI_logo.svg",
+    "status": "favourite"
+  },
+  {
+    "id": 4,
+    "title": "Perplexity AI",
+    "description": "AI-powered search engine with citations.\nProvides fast and accurate research answers.",
+    "price": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Perplexity_AI_logo.svg",
+    "status": "popular"
+  },
+  {
+    "id": 5,
+    "title": "GitHub Copilot",
+    "description": "AI coding assistant by GitHub.\nGenerates code and improves developer productivity.",
+    "price": 10,
+    "image": "https://github.githubassets.com/images/modules/site/copilot/copilot.png",
+    "status": "favourite"
+  },
+  {
+    "id": 6,
+    "title": "Cursor",
+    "description": "AI-first code editor.\nBuilt for faster software development with AI.",
+    "price": 20,
+    "image": "https://cursor.sh/favicon.ico",
+    "status": "mostwanted"
+  },
+  {
+    "id": 7,
+    "title": "Midjourney",
+    "description": "AI image generation platform.\nCreates artistic and realistic images from prompts.",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png",
+    "status": "popular"
+  },
+  {
+    "id": 8,
+    "title": "Canva Magic Studio",
+    "description": "AI-powered design and editing tools.\nPerfect for presentations, posters, and social media.",
+    "price": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
+    "status": "favourite"
+  },
+  {
+    "id": 9,
+    "title": "Leonardo AI",
+    "description": "AI image creation platform.\nGenerates high-quality artwork and game assets.",
+    "price": 12,
+    "image": "https://leonardo.ai/favicon.ico",
+    "status": "mostwanted"
+  },
+  {
+    "id": 10,
+    "title": "Notion AI",
+    "description": "AI writing assistant inside Notion.\nSummarizes notes and boosts productivity.",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "status": "popular"
+  }
+]
